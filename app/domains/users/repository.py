@@ -1,0 +1,1 @@
+# searching char by char
